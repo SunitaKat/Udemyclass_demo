@@ -1,0 +1,57 @@
+body{
+  background-color: #F8FFDB;
+margin: 0px;
+
+}
+.Top{
+  height: 100px;
+
+    background-color: lightgreen;
+    padding: 5px;
+}
+h1
+{
+  margin: 0px;
+  display:inline-block;
+}
+
+.Middle{
+  height: 200px;
+    width: 200px;
+    background-color: lightpink;
+    padding: 5px;
+}
+.Bottom {
+  height: 200px;
+  width: 200px;
+  border-width: 40px;
+  border-color: lightpink;
+
+    background-color: lightblue;
+
+}
+.second_p{
+  visibility: hidden;
+}
+.one{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+
+}
+.two{
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 100px;
+  left: 100px;
+}
+.three{
+  background-color: blue;
+  width: 100px;
+  height: 100px; 
+  position: relative;
+  bottom: 200px;
+  left:   200px;
+}
